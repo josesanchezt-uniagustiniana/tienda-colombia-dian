@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <cbc:ID>FCF-064310</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">1f5fc931c0179b44e28565da6ac59b16406b9205b1aeacff33bab12dd4e2da4b6f013459d0ac791689ac52b74316b178</cbc:UUID>
+</Invoice>

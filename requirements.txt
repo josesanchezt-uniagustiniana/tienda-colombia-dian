@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+lxml
+python-multipart
+uvicorn
+lxml
+jinja2
+python-multipart
